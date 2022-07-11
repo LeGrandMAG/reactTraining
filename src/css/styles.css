@@ -190,3 +190,13 @@ input {
 input {
   text-indent: 10px;
 }
+/* JOKE */
+
+.joke-container {
+}
+
+/* messages */
+
+.bg span {
+  color: blue;
+}
